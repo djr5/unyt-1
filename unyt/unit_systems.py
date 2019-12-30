@@ -148,6 +148,7 @@ mks_unit_system["force"] = "N"
 mks_unit_system["magnetic_field_mks"] = "T"
 mks_unit_system["charge_mks"] = "C"
 mks_unit_system["power"] = "W"
+mks_unit_system["capacitance"] = "F"
 
 #: The imperial unit system
 imperial_unit_system = UnitSystem("imperial", "ft", "lb", "s",

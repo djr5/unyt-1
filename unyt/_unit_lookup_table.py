@@ -91,6 +91,7 @@ default_unit_symbol_lut = {
     "T": (1.0, dimensions.magnetic_field_mks, 0.0, r"\rm{T}", True),
     "Pa": (1.0, dimensions.pressure, 0.0, r"\rm{Pa}", True),
     "V": (1.0, dimensions.electric_potential_mks, 0.0, r"\rm{V}", True),
+    "F": (1.0, dimensions.capacitance, 0.0, r"\rm{F}", True),
     "ohm": (1.0, dimensions.resistance_mks, 0.0, r"\Omega", True),
     "Wb": (1.0, dimensions.magnetic_flux_mks, 0.0, r"\rm{Wb}", True),
     "lm": (1.0, dimensions.luminous_flux, 0.0, r"\rm{lm}", True),

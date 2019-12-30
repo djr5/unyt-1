@@ -129,6 +129,8 @@ electric_potential = electric_potential_mks = energy / charge_mks
 resistance = resistance_mks = electric_potential_mks / current_mks
 #: magnetic_flux_mks
 magnetic_flux = magnetic_flux_mks = magnetic_field_mks * area
+#: capacitance
+capacitance = capacitance_mks = charge / electric_potential
 
 #: a list containing all derived_dimensions
 derived_dimensions = [

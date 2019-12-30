@@ -339,6 +339,9 @@ ohm = Ohm = Unit("ohm")
 #: Weber
 Wb = weber = Weber = Unit("Wb")
 
+#: Farad
+F = farad = Farad = Unit("F")
+
 #
 # Geographic units
 #
